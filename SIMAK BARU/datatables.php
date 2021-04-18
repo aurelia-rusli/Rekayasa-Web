@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Cara Menggunakan Datatables</title>
+    <title>Datatables Mahasiswa 3C TKJ PNUP</title>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
 </head>
 
